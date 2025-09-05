@@ -1,7 +1,7 @@
-import TodoApp from '@/components/TodoApp';
+import App from '@/components/App';
 
 const Index = () => {
-  return <TodoApp />;
+  return <App />;
 };
 
 export default Index;
